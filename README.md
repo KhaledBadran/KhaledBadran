@@ -14,4 +14,3 @@
 - 👨‍🔬 A Research Assistant at at [the Data-Driven Analysis (DAS) Lab](http://das.encs.concordia.ca/members/khaled-badran/ "Personal Das Webpage")
 - 👨‍💻 Currently working on projects related to software bots/chatbots, natural language understanding, and mining software repositories 
 - ☕ Wanna chat? 👉 find me at [Twitter](https://twitter.com/Khaled_Badran9 "Twitter Account")
-
