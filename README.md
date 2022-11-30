@@ -10,7 +10,7 @@
 
 ### About me:
 
-- 👨‍🎓 A 4th year Software Engineering Student at [Concordia University](https://www.Concordia.ca "Concordia University Website")
+- 👨‍🎓 A Master's student studying Software Engineering at [Concordia University](https://www.Concordia.ca "Concordia University Website")
 - 👨‍🔬 A Research Assistant at at [the Data-Driven Analysis (DAS) Lab](http://das.encs.concordia.ca/members/khaled-badran/ "Personal Das Webpage")
 - 👨‍💻 Currently working on projects related to software bots/chatbots, natural language understanding, and mining software repositories 
 - ☕ Wanna chat? 👉 find me at [Twitter](https://twitter.com/Khaled_Badran9 "Twitter Account")
